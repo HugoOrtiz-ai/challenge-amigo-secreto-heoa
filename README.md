@@ -56,7 +56,7 @@ Este proyecto consiste en un juego interactivo de **Amigo Secreto**, donde los u
 Fui reconocido con la siguiente insignia por el programa ONE (Oracle Next Education), una iniciativa de Alura Latam en colaboración con Oracle:
 
 <p align="center">
-  <img src="" alt="Insignia Oracle Next Education" width="300">
+  <img src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" alt="Insignia Oracle Next Education" width="300">
 </p>
 
 ## 🖱 Acceso al Proyecto
