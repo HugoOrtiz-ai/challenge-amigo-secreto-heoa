@@ -22,9 +22,13 @@ Crea README.md
   <i>¡Entra en el juego y descubre si puedes adivinar quién te sacó! 🎯</i>
 </p>
 
-## 💻 Tecnologías
+## 💻 Lenguajes utilizados
 
-Este proyecto fue desarrollado con las siguientes tecnologías:  
+Este proyecto fue desarrollado utilizando los siguientes lenguajes:
+
+🦴Hypertext Markup Languaje.
+💅Cascadin Style Sheets.
+⚙JavaScript.  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,7 +63,7 @@ Fui reconocido con la siguiente insignia por el programa ONE (Oracle Next Educat
 
 Puedes acceder al proyecto en línea haciendo clic en el siguiente enlace:
 
-👉 [Juego Amigo Secreto]()
+👉 [Juego Amigo Secreto](https://hugoortiz-ai.github.io/challenge-amigo-secreto-heoa/)
 
 ## ⭐ Créditos y Agradecimientos
 
@@ -67,6 +71,6 @@ Agradecimiento a **Alura Latam** y a **Oracle** por el conocimiento compartido y
 
 # 👨‍🎓 Autor
 
-| () |
+| (https://github.com/HugoOrtiz-ai) |
 | :---: |
 
