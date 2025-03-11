@@ -27,7 +27,7 @@ Crea README.md
 Este proyecto fue desarrollado utilizando los siguientes lenguajes:
 
 🦴Hypertext Markup Languaje.
-💅Cascadin Style Sheets.
+👔Cascadin Style Sheets.
 ⚙JavaScript.  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,7 +63,7 @@ Fui reconocido con la siguiente insignia por el programa ONE (Oracle Next Educat
 
 Puedes acceder al proyecto en línea haciendo clic en el siguiente enlace:
 
-👉 [Juego Amigo Secreto](https://hugoortiz-ai.github.io/challenge-amigo-secreto-heoa/)
+👉 [Challenge: "Juego Amigo Secreto"](https://hugoortiz-ai.github.io/challenge-amigo-secreto-heoa/)
 
 ## ⭐ Créditos y Agradecimientos
 
