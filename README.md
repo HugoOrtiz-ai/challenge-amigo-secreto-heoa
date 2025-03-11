@@ -22,10 +22,6 @@ Crea README.md
   <i>¡Entra en el juego y descubre si puedes adivinar quién te sacó! 🎯</i>
 </p>
 
-## 👉 Cómo Usar
-
-https://github.com/user-attachments/assets/ef9d953f-d6ca-4d11-b4ed-49a6f8cb9268
-
 ## 💻 Tecnologías
 
 Este proyecto fue desarrollado con las siguientes tecnologías:  
